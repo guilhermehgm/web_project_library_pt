@@ -256,7 +256,7 @@
 
 .person_name_burbidge {
   top: 96px;
-  left: 125px;
+  right: 125px;
 }
 
 .person_name_cannon {
@@ -270,8 +270,8 @@
 }
 
 .person_name_tarter {
-  right: 159px;
   top: 79px;
+  left: 159px;
 }
 
 .person__image {
