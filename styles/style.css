@@ -116,7 +116,7 @@
   margin-bottom: 68px;
   font-family: arial, sans-serif;
 }
-/* adicionar a regra CSS para sua nova classe aqui. Certifique-se de colocar antes de .card: os pais devem preceder seus filhos */
+
 .staff__cards {
   max-width: 760px;
   margin: 0 auto;
